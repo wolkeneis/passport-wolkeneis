@@ -1,0 +1,25 @@
+{
+  "name": "passport-wolkeneis-example",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolkeneis/passport-wolkeneis.git"
+  },
+  "author": "wolkeneis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolkeneis/passport-wolkeneis/issues"
+  },
+  "homepage": "https://github.com/wolkeneis/passport-wolkeneis#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "passport": "^0.4.1"
+  }
+}

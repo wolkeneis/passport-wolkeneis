@@ -1,0 +1,33 @@
+{
+  "name": "passport-wolkeneis",
+  "version": "0.1.1",
+  "description": "Passport strategy for authentication with Wolkeneis (wolkeneis.dev), based on passport-discord",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolkeneis/passport-wolkeneis.git"
+  },
+  "keywords": [
+    "passport",
+    "wolkeneis",
+    "auth",
+    "authentication",
+    "oauth2"
+  ],
+  "author": "wolkeneis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolkeneis/passport-wolkeneis/issues"
+  },
+  "homepage": "https://github.com/wolkeneis/passport-wolkeneis#readme",
+  "dependencies": {
+    "passport-oauth2": "^1.6.0"
+  }
+}
