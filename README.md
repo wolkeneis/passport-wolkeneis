@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/wolkeneis/passport-wolkeneis/badge)](https://www.codefactor.io/repository/github/wolkeneis/passport-wolkeneis)
+
 # passport-wolkeneis
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Wolkeneis](https://wolkeneis.dev/)
