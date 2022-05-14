@@ -1,10 +1,9 @@
 {
   "name": "passport-wolkeneis",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Passport strategy for authentication with Wolkeneis (wolkeneis.dev), based on passport-discord",
   "main": "lib/index.js",
   "directories": {
-    "example": "example",
     "lib": "lib"
   },
   "scripts": {
