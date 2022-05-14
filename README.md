@@ -20,7 +20,7 @@ unobtrusively integrated into any application or framework that supports
 
 Before using `passport-wolkeneis`, you must register an application with Wolkeneis.
 If you have not already done so, a new application can be created at
-[Wolkeneis Account Management](https://walderde.wolkeneis.dev/account).  Your application
+[Wolkeneis Account Management](https://moos.wolkeneis.dev/profile).  Your application
 will be issued a Client Identifier and Client Secret, which
 need to be provided to the strategy.  You will also need to configure a callback
 URL which matches the route in your application.

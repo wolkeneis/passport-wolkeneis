@@ -1,0 +1,51 @@
+lockfileVersion: 5.4
+
+specifiers:
+  passport-oauth2: ^1.6.1
+
+dependencies:
+  passport-oauth2: 1.6.1
+
+packages:
+  /base64url/3.0.1:
+    resolution:
+      {
+        integrity: sha512-ir1UPr3dkwexU7FdV8qBBbNDRUhMmIekYMFZfi+C/sLNnRESKPl23nB9b2pltqfOQNnGzsDdId90AEtG5tCx4A==,
+      }
+    engines: { node: ">=6.0.0" }
+    dev: false
+
+  /oauth/0.9.15:
+    resolution: { integrity: sha1-vR/vr2hslrdUda7VGWQS/2DPucE= }
+    dev: false
+
+  /passport-oauth2/1.6.1:
+    resolution:
+      {
+        integrity: sha512-ZbV43Hq9d/SBSYQ22GOiglFsjsD1YY/qdiptA+8ej+9C1dL1TVB+mBE5kDH/D4AJo50+2i8f4bx0vg4/yDDZCQ==,
+      }
+    engines: { node: ">= 0.4.0" }
+    dependencies:
+      base64url: 3.0.1
+      oauth: 0.9.15
+      passport-strategy: 1.0.0
+      uid2: 0.0.4
+      utils-merge: 1.0.1
+    dev: false
+
+  /passport-strategy/1.0.0:
+    resolution: { integrity: sha1-tVOaqPwiWj0a0XlHbd8ja0QPUuQ= }
+    engines: { node: ">= 0.4.0" }
+    dev: false
+
+  /uid2/0.0.4:
+    resolution:
+      {
+        integrity: sha512-IevTus0SbGwQzYh3+fRsAMTVVPOoIVufzacXcHPmdlle1jUpq7BRL+mw3dgeLanvGZdwwbWhRV6XrcFNdBmjWA==,
+      }
+    dev: false
+
+  /utils-merge/1.0.1:
+    resolution: { integrity: sha1-n5VxD1CiZ5R7LMwSR0HBAoQn5xM= }
+    engines: { node: ">= 0.4.0" }
+    dev: false
