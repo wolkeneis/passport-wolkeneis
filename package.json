@@ -1,6 +1,6 @@
 {
   "name": "passport-wolkeneis",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Passport strategy for Wolkeneis",
   "keywords": [],
   "repository": {
@@ -19,7 +19,7 @@
     "npm": "^8.x.x",
     "pnpm": "7.x.x"
   },
-  "main": "src",
+  "main": "dist",
   "bin": {},
   "scripts": {
     "lint": "eslint --ext ts .",
@@ -47,6 +47,7 @@
   },
   "dependencies": {
     "@types/passport-oauth2": "^1.4.11",
+    "moos-api": "^0.1.1",
     "passport-oauth2": "^1.6.1"
   }
 }
