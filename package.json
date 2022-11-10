@@ -1,6 +1,6 @@
 {
   "name": "passport-wolkeneis",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Passport strategy for Wolkeneis",
   "keywords": [],
   "repository": {
@@ -19,7 +19,7 @@
     "npm": "^8.x.x",
     "pnpm": "7.x.x"
   },
-  "main": "dist",
+  "main": "dist/index.js",
   "bin": {},
   "type": "module",
   "scripts": {
